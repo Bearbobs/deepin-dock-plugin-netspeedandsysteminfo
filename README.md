@@ -1,14 +1,14 @@
 Deepin dock NetSpeed and SystemInfo plugin
 =====================
-### Check It out on Arch User Repo
-
-## [AUR](https://aur.archlinux.org/packages/deepin-dock-plugin-netspeedandsysteminfo/)
-
 
 This is a network speed plugin, mouse hover shows boot time, CPU info, memory usage, download and upload bytes.
 
 ![alt](preview.png)
 ![alt](preview1.png)
+
+### Check It out on Arch User Repo
+
+### [AUR](https://aur.archlinux.org/packages/deepin-dock-plugin-netspeedandsysteminfo/)
 
 ### Installation Guide ###
 Compiling using Qt Creator or using the following command:
